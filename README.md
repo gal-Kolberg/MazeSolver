@@ -2,7 +2,7 @@
 
 ## How To run this project ?
 
-1. Run the Maze_project.sln file 
+1. Run the Maze.sln file 
 2. Choose if you want to input you'r own board , or we will make a random board and solve it . 
  
  ## Enjoy!!
