@@ -20,6 +20,7 @@
 Example:
 <br>
 15  // rows 
+<br>
 51 // cols
 
 // random generated maze : 
