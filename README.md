@@ -17,7 +17,7 @@
  1. Working with diffrent data structures such as Queue and Stack to solve the maze and represent it 
  2. How to implement these data structures in the code . 
 
-<p> 
+##
 Example:
 15  // rows 
 51 // cols
@@ -57,4 +57,4 @@ $$*$$$$$$$$$$$$$$$*$$$$$*$$$$$$$$$$$$$$$$$$$$$*$$$*
 *$*************$*$*$*$*********$*****$***$*$***** *
 *$$$$$$$$$$$$$$$$$*$*$$$$$$$$$$$$$$$$$$$*$$$$$$$$$$
 ***************************************************
-</p>
+
