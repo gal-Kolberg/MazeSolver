@@ -18,6 +18,7 @@
  2. How to implement these data structures in the code . 
 
 Example:
+<br>
 15  // rows 
 51 // cols
 
